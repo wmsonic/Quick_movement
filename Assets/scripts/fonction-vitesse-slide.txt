@@ -1,0 +1,5 @@
+fonction pour perte vitesse slide. 
+y = vitesse
+x = temps
+
+y = 3.5 sur x a la 2 
